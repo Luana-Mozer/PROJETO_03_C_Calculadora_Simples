@@ -1,4 +1,4 @@
-// criando a biblioteca
+// importando a biblioteca
 #include<stdio.h>
 
 int main() {
