@@ -1,3 +1,4 @@
+// criando a biblioteca
 #include<stdio.h>
 
 int main() {
