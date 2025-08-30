@@ -1,5 +1,6 @@
 # VEJA COMO FOI FEITO A CALCULADORA PARA O PROJETO DO CURSO DE ENGENHARIA DE SOFTWARE:
-## O objetivo era a criação de uma calculadora simples onde você digita uma sequência de 3 números inteiros e poderá fazer a soma, subtração, multiplicação ou divisão dos números. O sistema também reconhece se o primeiro número é POSITIVO ou NEGATIVO, PAR ou IMPAR e qual dos 3 é o número maior usando a linguagem c.
+## O objetivo era a criação de uma calculadora simples onde você digita uma sequência de 3 números inteiros e poderá fazer a soma, subtração, multiplicação ou divisão dos números. 
+### O sistema também reconhece se o primeiro número é POSITIVO ou NEGATIVO, PAR ou IMPAR e qual dos 3 é o maior usando a linguagem c.
 CONFIRA:
 <img width="1587" height="2245" alt="Image" src="https://github.com/user-attachments/assets/f2b49c66-c708-461b-ba5e-25795542aa34" />
 
